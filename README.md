@@ -15,6 +15,8 @@ My personal reading list of interesting articles and resources across AI, human-
 
 ### Technology
 * [Just Design: Pasts, Presents, and Future Trajectories of Technology](https://just-tech.ssrc.org/field-reviews/just-design-pasts-presents-and-future-trajectories-of-technology/)
+* [How digital resilience advances safety and equality in the Global South](https://www.fordfoundation.org/news-and-stories/stories/how-digital-resilience-advances-safety-and-equality-in-the-global-south/)
+
 
 ## Research Articles
 * [CiteSee: Augmenting Citations in Scientific Papers with Persistent and Personalized Historical Context](https://arxiv.org/pdf/2302.07302.pdf)
