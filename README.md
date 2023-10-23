@@ -28,5 +28,8 @@ My personal reading list of interesting articles and resources across AI, human-
 ## Courses
 * [African development – from the past to the present](https://www.coursera.org/learn/african-development--from-the-past-to-the-present)
 
+## Resources
+* [Stanford Global AI Vibrancy Tool](https://aiindex.stanford.edu/vibrancy/)
+
 
 
