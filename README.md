@@ -11,6 +11,7 @@ My personal reading list of interesting articles and resources across AI, human-
 ### AI Policy/Governance
 * [The new think tanks influencing AI policy in Washington](https://www.semafor.com/article/10/20/2023/the-new-think-tanks-influencing-ai-policy-in-washington)
 * [EU-U.S. Terminology and Taxonomy for Artificial Intelligence](https://digital-strategy.ec.europa.eu/en/library/eu-us-terminology-and-taxonomy-artificial-intelligence)
+* [Nigeria - Data Protection Overview](https://www.dataguidance.com/notes/nigeria-data-protection-overview)
 
 ### Technology
 * [Just Design: Pasts, Presents, and Future Trajectories of Technology](https://just-tech.ssrc.org/field-reviews/just-design-pasts-presents-and-future-trajectories-of-technology/)
