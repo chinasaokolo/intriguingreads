@@ -23,6 +23,8 @@ My personal reading list of interesting articles and resources across AI, human-
 * [CiteSee: Augmenting Citations in Scientific Papers with Persistent and Personalized Historical Context](https://arxiv.org/pdf/2302.07302.pdf)
 * [Governing artificial intelligence in the public interest](https://www.ucl.ac.uk/bartlett/public-purpose/publications/2022/jul/governing-artificial-intelligence-public-interest)
 * [A new research agenda for African generative AI](https://www.nature.com/articles/s41562-023-01735-1)
+* [The Shifted and The Overlooked: A Task-oriented Investigation of User-GPT Interactions](https://arxiv.org/abs/2310.12418)
+* [Low-Resource Languages Jailbreak GPT-4](https://arxiv.org/abs/2310.02446)
   
 
 ## Books
